@@ -36,3 +36,5 @@ flutter pub run build_runner build
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 [online documentation](https://flutter.dev/docs)
 # flutter_sql_floor_getx
+![Screenshot](https://github.com/ZawXtutAung/flutter_sql_floor_getx/blob/master/images/floordb.png)
+
